@@ -2,15 +2,15 @@
 
 ## BLYNK
 
-![](Blynk.jpg)
+![](img/Blynk.jpg)
 
-![](Blynk_Step_V_Pin_V0.jpg)
+![](img/Blynk_Step_V_Pin_V0.jpg)
 
-![](Blynk_Styled_Button_Pin_V1.jpg)
+![](img/Blynk_Styled_Button_Pin_V1.jpg)
 
-![](Bylnk_Timer_Pin_V2.jpg)
+![](img/Bylnk_Timer_Pin_V2.jpg)
 
-![](Blynk_Styled_Button_Manual_Pin V3.jpg)
+![](img/Blynk_Styled_Button_Manual_Pin_V3.jpg)
 
 ## Application BLYNK Description 
 
