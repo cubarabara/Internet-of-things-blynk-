@@ -12,7 +12,7 @@
 
 ![](img/Blynk_Styled_Button_Manual_Pin_V3.jpg)
 
-![](QR_CODE.jpg)
+![](img/QR_CODE.jpg)
 
 ## Application BLYNK Description 
 
